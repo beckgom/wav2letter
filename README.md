@@ -23,7 +23,7 @@ The previous iteration of wav2letter can be found in the:
 - (written in Lua) [`wav2letter-lua`](https://github.com/facebookresearch/wav2letter/tree/wav2letter-lua) branch.
 
 ## Build recipes
-First, isntall [flashlight](https://github.com/facebookresearch/flashlight) with all its dependencies. Then
+First, install [flashlight](https://github.com/facebookresearch/flashlight) with all its dependencies. Then
 ```
 mkdir build && cd build && cmake .. && make -j8
 ```
